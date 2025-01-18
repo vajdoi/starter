@@ -1,3 +1,3 @@
-# About Content Version 3
+# About me
 
-[Back home](/)
+[Phaj Vaj](https://github.com/vajdoi)
